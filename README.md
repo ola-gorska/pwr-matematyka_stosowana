@@ -1,3 +1,5 @@
+# Matematyka Stosowana - Politechnika Wrocławska
+
 Programy napisane podczas studiów na kierunku matematyka stosowana na Politechnice Wrocławskiej. W poszczgólnych folderach możemy zobaczyć pliki z następujących semestrów i przedmiotów:
 
 ### Semestr 3:
