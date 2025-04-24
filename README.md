@@ -17,3 +17,7 @@ Symulacje komputerowe – opanowanie wiedzy z zakresu generatorów liczb losowyc
 Komputerowa analiza szeregów czasowych – poznanie szeregów czasowych i zastosowanie ich w praktyce, metod używanych przy regresji liniowej oraz modelowanie danych rzeczywistych za pomocą modeli ARMA, ich przedziałów ufności oraz funkcji z nimi związanych.
 
 Metody numeryczne – poznanie podstaw metod numerycznych i wykorzystanie ich w obliczeniach naukowych, takich jak: liniowe układy równań, interpolacja, całkowanie numeryczne, różniczkowanie numeryczne oraz rozwiązywanie równań różniczkowych.
+
+### Praca inżynierska
+
+Programy użyte podczas pisania pracy inżynierskiej "Model matematyczny metabolizmu składników odżywczych" przedstawiającej modele matematyczne opisujące działanie ludzkiego metabolizmu za pomocą równań różniczkowych. Przedstawione kody badają stabilość równań na których opierał się model.
