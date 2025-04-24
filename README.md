@@ -20,4 +20,4 @@ Metody numeryczne – poznanie podstaw metod numerycznych i wykorzystanie ich w 
 
 ### Praca inżynierska:
 
-Programy użyte podczas pisania pracy inżynierskiej "Model matematyczny metabolizmu składników odżywczych" przedstawiającej modele matematyczne opisujące działanie ludzkiego metabolizmu za pomocą równań różniczkowych. Przedstawione kody badają stabilość równań na których opierał się model.
+Praca inżnierska "Model matematyczny metabolizmu składników odżywczych" przedstawiającej modele matematyczne opisujące działanie ludzkiego metabolizmu za pomocą równań różniczkowych.
